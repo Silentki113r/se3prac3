@@ -172,5 +172,11 @@ Other methods of testing
 
 Other methods, apart from those used above (unit and black box), can be used to greater the game. Comparison testing could expand/refine the requirements of what makes a game appealing to the user. This is done by testing other games of the same genre.
 
+Conclusion
+========
+
+The following tests cover a large part of the program and would be suitable in testing it for about 80% of its functionality.
+
+
 
 
