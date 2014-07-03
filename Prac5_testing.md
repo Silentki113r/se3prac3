@@ -10,7 +10,49 @@ The objective of this game is to merge numbered tiles until you have one tile eq
 Specifications for running
 ========
 
-For General use:For anyone wanting to play the game, with no other obligations.•	Web browser that allows JavaScript.You can also of course play this game via the command line with the appropriate files.For use of testing/changing program:For anyone wanting to look at how the program runs, test it, make or suggest improvements.•	GitHub Account•	IDE – Not Netbeans save yourself a headache•	C compiler and library – Mac OSX Mavericks…… What a joke.Testing
+For General use:
+For anyone wanting to play the game, with no other obligations.
+
+•	Web browser that allows JavaScript.
+
+You can also of course play this game via the command line with the appropriate files.
+
+For use of testing/changing program:
+For anyone wanting to look at how the program runs, test it, make or suggest improvements.
+
+•	GitHub Account
+
+•	IDE – Not Netbeans save yourself a headache
+
+•	C compiler and library – Mac OSX Mavericks…… What a joke.
+
+Testing
 ========
 
-There are many aspects of this game that can be tested, such as:•	Movement of tiles•	Merging of tiles•	Game initialization•	Game end point (no more moves AND 2048 tile)•	Random placement of new valued tiles after each tilt•	Tiles merge with appropriate tiles (eg. same value)•	ScoringOther aspects, which effect the games functionality:•	Event handling (user input)•	Event recognition (user input)•	Action Listeners (user input)
+There are many aspects of this game that can be tested, such as:
+
+•	Movement of tiles
+
+•	Merging of tiles
+
+•	Game initialization
+
+•	Game end point (no more moves AND 2048 tile)
+
+•	Random placement of new valued tiles after each tilt
+
+•	Tiles merge with appropriate tiles (eg. same value)
+
+•	Scoring
+
+Other aspects, which effect the games functionality:
+
+•	Event handling (user input)
+
+•	Event recognition (user input)
+
+•	Action Listeners (user input)
+
+
+
+
